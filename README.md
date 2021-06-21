@@ -23,14 +23,14 @@ The analysis consisted of two major exercises:
 ![Challange_with_Date_Conversion](C:\Users\rdsm1\Documents\GitHub\kickstarteranalysis2021\Resources\Challange_with_Date_Conversion.png). 
 
 ### 2.3 Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](C:\Users\rdsm1\Documents\GitHub\kickstarteranalysis2021\Resources\Theater_Outcomes_vs_Launch.png)
  Based on the Analysis of outcomes vs. launch date line graph, we can make two conclusions. 
+ ![Theater_Outcomes_vs_Launch](C:\Users\rdsm1\Documents\GitHub\kickstarteranalysis2021\Resources\Theater_Outcomes_vs_Launch.png)
  - The first conclusion is that December is the best time for a succesfull campaign.  
  - The second conclusion is that after May the number of succesfull campaigns tapers off, making December the worst time for a succesfull campaign.  
 
 ### 2.4 Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](C:\Users\rdsm1\Documents\GitHub\kickstarteranalysis2021\Resources\Outcomes_vs_Goals.png)
 Based on the Analysis of Outcomes vs. Goals line graph we can make one conclusion.
+![Outcomes_vs_Goals](C:\Users\rdsm1\Documents\GitHub\kickstarteranalysis2021\Resources\Outcomes_vs_Goals.png)
 - There is a higher probability that the campaign will be succesfull the higher the campaign goal.
 
 ## 3 Limitations of Data
