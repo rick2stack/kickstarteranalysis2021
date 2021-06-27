@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarting Challange (Module 1)
 
 ## 1 Overview of Project
 Louise's play "Fever" came close to its fundraising goal. Louise wants a visual summary, from the Kick Starter data provided, to aid her decision on the best launch date and fundraising goal for her new campaign.    
