@@ -17,20 +17,20 @@ The analysis consisted of two major exercises:
  Most of the challanges encountered with excel were finding the correct syntax for the "countifs()" and trivial knowledge about the "datum date" for the "Date Created Conversion".   
  
  - The "Countifs()" formula required a logic command such as the "greater than" or "equal to". However, when I place the logic command it was not working and recieved an error.  A quick google search showed that the syntax for that command required quotation marks, see image below.
- ![Challange_with_Countifs](C:\Users\rdsm1\Documents\GitHub\kickstarteranalysis2021\Resources\Challange_with_Countifs.png). 
+ ![Challange_with_Countifs](https://github.com/rick2stack/kickstarteranalysis2021/blob/main/Resources/Challange_with_Countifs.PNG). 
  
  - The  "Date Created Conversion" required the serial number time stamp to be convert to a nice date format such as dd/mm/yyyy.  The serial number which is a time stamp in seconds could be converted to quantity days with simple math.  However, the conversion only gave a quantity of days and therefore it required a datum date (a.k.a a start date) of 1/1/1970, see image below. 
-![Challange_with_Date_Conversion](C:\Users\rdsm1\Documents\GitHub\kickstarteranalysis2021\Resources\Challange_with_Date_Conversion.png). 
+![Challange_with_Date_Conversion](https://github.com/rick2stack/kickstarteranalysis2021/blob/main/Resources/Challange_with_Date_Conversion.PNG). 
 
 ### 2.3 Analysis of Outcomes Based on Launch Date
  Based on the Analysis of outcomes vs. launch date line graph, we can make two conclusions. 
- ![Theater_Outcomes_vs_Launch](C:\Users\rdsm1\Documents\GitHub\kickstarteranalysis2021\Resources\Theater_Outcomes_vs_Launch.png)
+ ![Theater_Outcomes_vs_Launch](https://github.com/rick2stack/kickstarteranalysis2021/blob/main/Resources/Theater_Outcomes_vs_Launch.PNG)
  - The first conclusion is that December is the best time for a succesfull campaign.  
  - The second conclusion is that after May the number of succesfull campaigns tapers off, making December the worst time for a succesfull campaign.  
 
 ### 2.4 Analysis of Outcomes Based on Goals
 Based on the Analysis of Outcomes vs. Goals line graph we can make one conclusion.
-![Outcomes_vs_Goals](C:\Users\rdsm1\Documents\GitHub\kickstarteranalysis2021\Resources\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/rick2stack/kickstarteranalysis2021/blob/main/Resources/Outcomes_vs_Goals.PNG)
 - There is a higher probability that the campaign will be succesfull the higher the campaign goal.
 
 ## 3 Limitations of Data
